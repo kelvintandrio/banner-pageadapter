@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+    <androidx.viewpager.widget.ViewPager
+            android:id="@+id/viewpager_tv_show_banner"
+            android:layout_marginTop="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="210dp"/>
+
+    <com.tbuonomo.viewpagerdotsindicator.WormDotsIndicator
+            android:id="@+id/worm_dots_indicator_tv_show"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            app:dotsStrokeColor="@android:color/black"
+            app:dotsSize="10dp"
+            app:dotsSpacing="3dp"
+            app:dotsColor="#FC0F3A"/>
+
+</LinearLayout>
