@@ -1,37 +1,37 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
-INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
-INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
-INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
-INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
-INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
-INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
+ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
 	package
-		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml:1:11-59
-		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
-		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
+		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml:1:11-59
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
-		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
-		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
+		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
+		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
 	android:versionCode
-		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
-		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
-		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
+		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml:1:1-61
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
 uses-sdk
-INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
-INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
-INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
-INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
-		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
-		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
+		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
-		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
-		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/2018090123541501a32543c7beee0e8b02a48a30070fbd/banner/banner_viewpager/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
+		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Jetpack Dicoding/library-banner-pageadapter/banner_viewpager/src/main/AndroidManifest.xml
